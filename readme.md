@@ -1,0 +1,1 @@
+Olá! Este projeto ensina à usar o Git Bash e controlar o versionamento de código.  
